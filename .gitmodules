@@ -1,0 +1,7 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "public"]
+	path = public
+	url = https://github.com/teresajones1953/teresajones1953.github.io.git
+	branch = main
